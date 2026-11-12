@@ -36,7 +36,7 @@
 
 ### 워게임
 
-- [ ] 드림핵 Addition calculator (진행 중)
+- [x] 드림핵 Addition calculator — [풀이](wargame/261112_dreamhack_addition-calculator.md)
 
 ### n-day 재현
 
