@@ -5,7 +5,6 @@ PortSwigger SQL injection — SQL injection UNION attack, finding a column conta
 
 ## 다음 할 일
 - SQLi 랩 체크리스트 진행 (남은 15개)
-- Addition calculator 블로그 초안 남은 질문: 다음 글 제목, chr(39) 시도 결과 (blog/261112_wargame-addition-calculator.md 끝)
 - Addition calculator 공개 전: 드림핵 워게임 풀이 외부 공개 허용 여부 확인 (공식 정책 못 찾음)
 - n-day 재현 추천은 보류 (사용자가 PortSwigger 집중 중, 말하기 전까지 추천하지 않음)
 - SQLi 끝나면 워게임 추천 받기
@@ -40,3 +39,6 @@ PortSwigger SQL injection — SQL injection UNION attack, finding a column conta
 - 261112 드림핵 Addition calculator 해결 (플래그 획득). wargame/261112_dreamhack_addition-calculator.md, .py 작성. 블로그 초안은 규칙 파일 대기
 - 261112 블로그 규칙서 받음 (blog/). CLAUDE.md에 개인 글 적용 방법, CTF·해커톤 예외, 앞으로 할 공부(자동화·CTF·시스템보안·리버싱·포너블·기사) 추가
 - 261112 Addition calculator 블로그 초안 작성 blog/261112_wargame-addition-calculator.md, wargame 기록에 답변 반영
+- 261112 같은 초안을 네이버 붙여넣기용 HTML로 만듦 blog/261112_wargame-addition-calculator.html (인라인 style, 본문 20pt·소제목 25pt 굵게, 핵심 문장 빨강·실패 결과 파랑). 남은 질문 2개는 그대로
+- 261112 md 초안 삭제, HTML만 남김. HTML 수정: 본문 24pt 보통·소제목 28pt 굵게(굵게는 소제목만), 코드·표를 본문 제자리에 넣음. CLAUDE.md 블로그 규칙을 HTML 출력 형식으로 바꿈
+- 261113 Addition calculator 블로그 네이버에 게시. 게시본은 HTML 초안과 다름: 문제 정보 표 대신 문제 설명, "4. 전체 흐름"과 "다음 글" 줄 삭제(소제목 1~5), chr(39) 시도는 넣지 않음
